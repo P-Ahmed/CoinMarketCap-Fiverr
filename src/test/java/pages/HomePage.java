@@ -120,4 +120,8 @@ public class HomePage {
         System.out.println(postName);
         Assert.assertNotEquals(preName, postName);
     }
+
+    public void verifyPrice() {
+
+    }
 }
